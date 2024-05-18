@@ -9,7 +9,7 @@ This Streamlit application fetches data from an API, allows the user to select a
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11.6
 - streamlit==1.28.1
 - requests==2.31.0
 
